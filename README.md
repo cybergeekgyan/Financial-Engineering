@@ -27,7 +27,7 @@
 
 
 
-## 🔥 Foundational Knowledge
+## 🔥 Phase - I: Foundational Knowledge
 
 ### Mathematics
 
@@ -37,7 +37,43 @@
 - [Stochastic Calculus]()
 
 
-
-
-
 ### Programming
+
+- [Python]()
+- [R]()
+- [C++]()
+
+
+### Finnance Basics
+
+- [Financial Markets]()
+- [Time Value of Money]()
+- [Derivatives]()
+- [Fixed Income]()
+- [Risk Management]()
+
+## 🔥 Phase - II: Core Financial Engineering Topics
+
+
+
+
+
+
+
+
+
+
+
+## 🔥 Phase - III: Advanced Topics
+
+
+
+
+
+
+
+
+
+
+
+
