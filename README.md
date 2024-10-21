@@ -1,11 +1,22 @@
 # Financial-Engineering
 
-🟢 **Different Roles in Financial Engineering** : 
+🟢 **Different Roles in Financial Engineering** : `Quantitative Analyst`, `Risk Manager / Risk Analyst`, `Algorithmic Trader / Quantitative Trader`, `Financial Analyst/Engineer`, `Portfolio Manager`, `Derivative Pricing Analyst`, `Quantitative Developer`, `Risk Quant / Financial Risk Engineer`, `Financial Data Scientist`, `Investment Strategist`, `Credit Risk Analyst`, `AI/ML Quant`, `Fintech Quant Engineer`, `Quantitative Risk Modeler`, `Financial Product Developer`, `Hedge Fund Quantitative Researcher`, `Model Validation Specialist`, `Structured Finance Specialist`
+
+---------
 
 
 🟠 **Companies Hiring for Finance Roles in India and their CTC**
 
+| Company | Role | CTC | Base |
+| ------|--------| ----|------|
 
+
+
+
+
+
+
+---------
 ## 🏁 Best Financial Engineering Programms
 
 | Program | Course | Tuition Fees |
@@ -81,9 +92,8 @@
 - [Portfolio Theory]()
 - [Asset Pricing Models]()
 - [Stochastic Processes & Financial Modeling]()
-- [Fixed Income Securities]()
+- [Fixed Income Derivatives & Interest Rate Models]()
 - [Derivatives Pricing & Valuation]()
-- [Interest Rate Models]()
 - [Quantitative Risk Management]()
 - [Financial Econometrics]()
 - [Portfolio Optimization]()
@@ -92,13 +102,25 @@
 
 ## 🔥 Phase - III: Advanced Topics
 
-- [Algorithmic Trading & High-Frequency Trading]()
-- [Machine Learning in Finance]()
+- [Market Microstructure, Algorithmic Trading & High-Frequency Trading]()
+- [Advanced Derivatives Pricing Models]()
+- [Advanced Machine Learning in Finance]()
 - [Deep Learning in Finance]()
+- [Advanced Numerical Methods in Finance]()
+- [Real Options and Corporate Finance Applications]()
+- [Advanced Risk Management and Stress Testing]()
+- [Credit Risk Modeling]()
 - [Quantitative Portfolio Management]()
-- [Hedging Strategies]()
+- [Advanced Portfolio Optimization Techniques]()
+- [Hedging Strategies & Replication in Incomplete Markets]()
 - [Capital Markets & Investment Strategies]()
-- [Behavioral Finance]()
+- [Systemic Risk and Network Models]()
+- [Advanced Computational Finance and High-Performance Computing (HPC)]()
+- [Quantitative Asset Management and Factor Investing]()
+- [Advanced Behavioral Finance]()
+- [Exotic Structured Products and Securitization]()
+- [Advanced Topics in Optimal Control and Financial Engineering]()
+- [Quantum Computing in Finance]()
 - [Financial Regulation & Compliance]()
 
 
