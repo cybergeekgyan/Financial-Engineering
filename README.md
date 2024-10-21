@@ -7,8 +7,9 @@
 
 🟠 **Companies Hiring for Finance Roles in India and their CTC**
 
-| Company | Role | CTC | Base |
+| Company | Roles Hiring for | CTC(LPA) | Base Salary(LPA) |
 | ------|--------| ----|------|
+| 
 
 
 
