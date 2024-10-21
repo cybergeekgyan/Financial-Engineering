@@ -31,10 +31,24 @@
 
 ### Mathematics
 
-- [Linear Algebra]()
-- [Calculus]()
-- [Probability & Statistics]()
-- [Stochastic Calculus]()
+| Topics | Important Concepts | Resources | Books | Notes |
+|-----|------------|--------|-----------|--------|
+| [Linear Algebra & Optimization]() |
+| [Calculus]()
+| [Probability Theory]()
+| [Statistics]()
+| [Stochastic Calculus]()
+| [Financial Mathematics]()
+| [Stochastic Processes]()
+| [Numerical Methods]()
+| [Partial Differential Equations]()
+| [Measure Theory]()
+| [Information Theory]()
+| [Decision Theory]()
+| [Game Theory]()
+| [Graph Theory]()
+| [Time Series Analysis]()
+| [Risk Measures and Quantitative Risk Management]()
 
 
 ### Programming
