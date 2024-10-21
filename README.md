@@ -1,7 +1,12 @@
 # Financial-Engineering
 
+🟢 **Different Roles in Financial Engineering** : 
 
-## 🟩 Best Financial Engineering Programms
+
+🟠 **Companies Hiring for Finance Roles in India and their CTC**
+
+
+## 🏁 Best Financial Engineering Programms
 
 | Program | Course | Tuition Fees |
 | ------|-------------| ---------|
@@ -29,7 +34,7 @@
 
 ## 🔥 Phase - I: Foundational Knowledge
 
-### Mathematics
+### 🧰 Mathematics
 
 | Topics | Important Concepts | Resources | Books | Notes |
 |-----|------------|--------|-----------|--------|
@@ -51,14 +56,14 @@
 | [Risk Measures and Quantitative Risk Management]()
 
 
-### Programming
+### 🐍Programming
 
 - [Python]()
 - [R]()
 - [C++]()
 
 
-### Finnance Basics
+### 💰Finnance Basics
 
 - [Financial Markets]()
 - [Time Value of Money]()
