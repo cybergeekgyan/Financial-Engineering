@@ -58,12 +58,14 @@
 
 ### 🐍Programming
 
-- [Python]()
-- [R]()
-- [C++]()
+- [Python](): _(Pandas, NumPy, SciPy for Data Manipulation)_
+- [R](): _(Statistical Computing & Data Analysis)_
+- [C++](): _(High-Performance Computing, Risk Simulations)_
+- [Matlab](): _(Prototyping and Financial Modeling)_
+- [SQL](): _(Database Management)_
 
 
-### 💰Finnance Basics
+### 💰Finance Basics
 
 - [Financial Markets]()
 - [Time Value of Money]()
@@ -73,19 +75,31 @@
 
 ## 🔥 Phase - II: Core Financial Engineering Topics
 
-
-
-
-
-
-
-
-
+- [Financial Markets]()
+- [Time Value of Money & Discounting]()
+- [Risk and Return]()
+- [Portfolio Theory]()
+- [Asset Pricing Models]()
+- [Stochastic Processes & Financial Modeling]()
+- [Fixed Income Securities]()
+- [Derivatives Pricing & Valuation]()
+- [Interest Rate Models]()
+- [Quantitative Risk Management]()
+- [Financial Econometrics]()
+- [Portfolio Optimization]()
+- [NUmerical Methods in Finance]()
 
 
 ## 🔥 Phase - III: Advanced Topics
 
-
+- [Algorithmic Trading & High-Frequency Trading]()
+- [Machine Learning in Finance]()
+- [Deep Learning in Finance]()
+- [Quantitative Portfolio Management]()
+- [Hedging Strategies]()
+- [Capital Markets & Investment Strategies]()
+- [Behavioral Finance]()
+- [Financial Regulation & Compliance]()
 
 
 
